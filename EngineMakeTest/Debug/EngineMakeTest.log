@@ -1,0 +1,3 @@
+﻿  AppWindow.cpp
+C:\Users\User\source\repos\EngineMakeTest\EngineMakeTest\AppWindow.cpp(94,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  EngineMakeTest.vcxproj -> C:\Users\User\source\repos\EngineMakeTest\Debug\EngineMakeTest.exe
